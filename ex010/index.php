@@ -7,6 +7,7 @@
 </head>
 <body>
 <h1>Teste do apache</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus soluta alias harum blanditiis dolorem voluptatem labore laudantium? Quam unde fugit expedita modi minus alias, eos non nihil, maiores reiciendis sapiente. Lorem</p>
     <?php 
     //$nome = "Fabiano"; 
     //$sobrenome = "Hermann";
