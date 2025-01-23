@@ -7,6 +7,11 @@
 </head>
 <body>
     <h1>Strings</h1>
+    <?php 
+    echo "Estamos no ano de " . date('Y');
+    
+    
+    ?>
     
 </body>
 </html>
