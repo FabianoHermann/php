@@ -22,8 +22,11 @@
     //$r= max(90,45,89,54,52,47,65,24,57,62);
     //echo "Qual é o valor minímo entre esses números $r";
 
-    $r = M_PI ;
-    echo "Qual o valor do número PI ? <p> Resposta:$r<p/>"
+    //$r = M_PI ;
+    //echo "Qual o valor do número PI ? <p> Resposta:$r<p/>"
+
+    $r = "2" + "2";
+    echo "Qual a Resposta da soma dessas Strings ? <p> Resposta= $r</p>";
     ?>
 
     
